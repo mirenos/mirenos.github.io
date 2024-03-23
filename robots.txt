@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mirenos.github.io/sitemap/sitemap.txt
